@@ -1,0 +1,1 @@
+rbs_sgn.exe asreproast /format:hashcat /outfile:output.txt
